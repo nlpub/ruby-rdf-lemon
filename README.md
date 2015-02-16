@@ -32,7 +32,6 @@ Or install it yourself as:
 
 ```ruby
 require 'rdf-lemon'
-
 p RDF::Lemon # => RDF::StrictVocabulary(http://lemon-model.net/lemon#)
 p RDF::LexInfo # => RDF::StrictVocabulary(http://www.lexinfo.net/ontology/2.0/lexinfo#)
 ```
