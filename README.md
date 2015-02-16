@@ -1,4 +1,4 @@
-# Lemon and LexInfo vocabularies for RDF.rb
+# lemon and LexInfo vocabularies for RDF.rb
 
 This gem adds the support of the [lemon](http://www.lemon-model.net/) and
 [LexInfo](http://lexinfo.net/) vocabularies to RDF.rb.

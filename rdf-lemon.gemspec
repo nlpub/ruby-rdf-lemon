@@ -5,9 +5,9 @@ Gem::Specification.new do |spec|
   spec.version       = File.read("VERSION").chomp
   spec.authors       = ["Dmitry Ustalov"]
   spec.email         = ["dmitry@eveel.ru"]
-  spec.summary       = "Lemon and LexInfo vocabularies for RDF.rb"
-  spec.description   = "Adds the Lemon and LexInfo vocabularies to RDF.rb"
-  spec.homepage      = ""
+  spec.summary       = "lemon and LexInfo vocabularies for RDF.rb"
+  spec.description   = "Adds the lemon and LexInfo vocabularies to RDF.rb"
+  spec.homepage      = "https://github.com/nlpub/ruby-rdf-lemon"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
