@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "rdf-lemon"
   spec.version       = File.read("VERSION").chomp
   spec.authors       = ["Dmitry Ustalov"]
-  spec.email         = ["dmitry@eveel.ru"]
+  spec.email         = ["dmitry.ustalov@gmail.com"]
   spec.summary       = "lemon and LexInfo vocabularies for RDF.rb"
   spec.description   = "Adds the lemon and LexInfo vocabularies to RDF.rb"
   spec.homepage      = "https://github.com/nlpub/ruby-rdf-lemon"

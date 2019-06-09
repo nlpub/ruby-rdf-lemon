@@ -5,12 +5,10 @@ This gem adds the support of the [lemon](http://www.lemon-model.net/) and
 
 * <https://github.com/nlpub/ruby-rdf-lemon>
 
-[![Gem Version][badge_fury_badge]][badge_fury_link] [![Dependency Status][gemnasium_badge]][gemnasium_link]
+[![Gem Version][badge_fury_badge]][badge_fury_link]
 
 [badge_fury_badge]: https://badge.fury.io/rb/rdf-lemon.svg
 [badge_fury_link]: https://badge.fury.io/rb/rdf-lemon
-[gemnasium_badge]: https://gemnasium.com/nlpub/ruby-rdf-lemon.svg
-[gemnasium_link]: https://gemnasium.com/nlpub/ruby-rdf-lemon
 
 ## Installation
 
